@@ -124,7 +124,11 @@ main {
 	font-size: 35px;
 }
 
-.content__article--p, .content__resume--p {
+.content__article__img-template {
+	margin-bottom: 2%;
+}
+
+.content__article--p, .content__resume--p, .content__article--p strong {
 	font-family: 'Kanit', sans-serif;
 	font-size: 18px;
 	margin-bottom: 2%;
@@ -143,6 +147,7 @@ main {
 	text-align: end;
 	margin-top: -0.5%;
 	margin-right: 1%;
+	
 }
 
 .main__aside-list {
