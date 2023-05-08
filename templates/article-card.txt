@@ -1,0 +1,13 @@
+<article class="articles__information" id="topic4">
+    <img src="imagen1.jpg" alt="Artículo 1" class="articles__information--img">
+    <div class="article__information-template">
+      <h2>Artículo 4</h2>
+      <p class="article__information-template--author">Por Juan Pérez</p>
+      <p class="article__information-template--date">Publicado el 1 de mayo de 2023</p>
+      <p class="article__information-template--resume">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Nullam eget elit libero. Donec quis sapien non
+        nunc vehicula efficitur. Integer id dolor at magna vehicula laoreet. Praesent ultricies sapien non purus
+        viverra, nec bibendum mauris varius.</p>
+      <a href="#" class="article__information-template--read-more">Leer más</a>
+    </div>
+  </article>
